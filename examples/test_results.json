@@ -1,0 +1,26 @@
+{
+  "total_processed": 10,
+  "pure_marathi": 0,
+  "mixed_content": 2,
+  "non_marathi": 8,
+  "sample_data": [
+    {
+      "reddit_id": "1lkx8p8",
+      "subreddit": "marathi",
+      "title": "A small joke!!!",
+      "body_preview": "बायको : आलात! हातपाय धुवा, मी जेवण वाढते!\n\nनवरा : बरं!\n\nबायको : कार नीट पार्क केलीत ना?\n\nनवरा : हो! एकदम व्यवस्थित!\n\nबायको : आज परत पिऊन आलात?\n\nनवरा : नाही! थोडंस ज्युस प्ययलो!\n\nबायको : नक्की! प्यायला",
+      "category": "mixed_content",
+      "confidence": 0.592,
+      "created_utc": "2025-06-26T04:01:36"
+    },
+    {
+      "reddit_id": "1l8lzph",
+      "subreddit": "marathi",
+      "title": "लग्न आणि गुंतवणूक?",
+      "body_preview": "लग्नासाठी कोणी पोरगी देईना म्हणून माझ्या एका मित्राने वाकडमध्ये १ कोटींचा  फ्लॅट विकत घेतला.त्यासाठी ४० लाख रुपये डाऊन पेमेंट केलं आणि उर्वरित ६० लाख रुपयांचं कर्ज काढलं.\n\nत्याचं वर्क फ्रॉम होम असल्या",
+      "category": "mixed_content",
+      "confidence": 0.696,
+      "created_utc": "2025-06-10T23:56:26"
+    }
+  ]
+}
